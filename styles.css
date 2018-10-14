@@ -1,0 +1,34 @@
+/* 사진 & 로고 가운데 정렬 **/
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+/* 로고 **/
+.logo{
+  width: 165; height: 58;
+  margin-top: 80px;
+}
+
+/* 메뉴 스타일 **/
+a{
+  text-decoration: none;
+  font-size: 16px;
+  font-family: "Helvetica";
+  color: #58595B;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* 메뉴 가운데정렬 **/
+.menu{
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+/* 사진크기 조절 **/
+.city{
+  width: 90%
+}
